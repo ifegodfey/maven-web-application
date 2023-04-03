@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tessla</finalName>
+		<finalName>payla</finalName>
 		
 		<plugins>
 			<plugin>
